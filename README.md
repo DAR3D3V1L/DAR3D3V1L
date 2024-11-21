@@ -2,7 +2,7 @@
 
 Hello World! 🌍  
 
-I’m **Devansh Prajapti** (*DAREDEVIL*), an **AI/ML enthusiast** with a flair for **Deep Learning**, automation, and all things AI. Alongside my passion for artificial intelligence, I dabble in **cybersecurity**, exploring vulnerabilities and crafting secure solutions.  
+I’m **Devansh Prajapti** (*DAR3D3V1L*), an **AI/ML enthusiast** with a flair for **Deep Learning**, automation, and all things AI. Alongside my passion for artificial intelligence, I dabble in **cybersecurity**, exploring vulnerabilities and crafting secure solutions.  
 
 In my free time, I experiment, create, and innovate—turning ideas into projects that merge intelligence and security. Dive in and explore my world of AI-driven creativity and cyber-savvy innovations! 🚀  
 
