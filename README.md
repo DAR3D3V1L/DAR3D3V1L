@@ -1,39 +1,61 @@
-# 💫 About Me:
+# Hello World! 🌍  
 
-Hello World! 🌍  
+I’m **Devansh Prajapati**, better known in these parts as **DAR3D3V1L**. By day, I’m an AI/ML enthusiast crafting intelligent systems, and by night… well, I’m still an AI/ML enthusiast, but with the lights off. *Daredevil vibes, right?* I don’t let bugs or broken code slow me down—they just make the fight more interesting. 🦸‍♂️  
 
-I’m **Devansh Prajapati** (*DAR3D3V1L*), an **AI/ML enthusiast** with a flair for **Deep Learning**, automation, and all things AI. Alongside my passion for artificial intelligence, I dabble in **cybersecurity**, exploring vulnerabilities and crafting secure solutions.  
+In my free time, I walk the fine line between genius and chaos (with Python as my billy club). My projects? Think of them as vigilantes of the tech world, combining intelligence and security to keep the digital streets safe. AI-driven creativity meets cyber-savvy innovation—justice for bugs, villains, and lazy algorithms! 🚀  
 
-In my free time, I experiment, create, and innovate—turning ideas into projects that merge intelligence and security. Dive in and explore my world of AI-driven creativity and cyber-savvy innovations! 🚀  
+---
 
+## 💻 Developer Extraordinaire  
+*Justice is served one line of code at a time*  
 
+- **Python?** My trusty sidekick. **Java?** My armor. **SQL?** The city I defend.  
+- Linux servers fear me (and so do hackers). I make them run like well-oiled machines.  
+- **AI & ML?** Building systems that learn, think, and sometimes act like me (hopefully without the sarcasm).  
+- Projects include:
+  - Real-time **face detection systems** (so you can’t hide in the shadows)  
+  - **Navigation algorithms** (no running away)  
+  - LMS platforms (because education saves the day)  
+- Docker and Git? My grappling hooks for tech missions.  
 
-💻 **Developer Extraordinaire**  
-- Skilled in **Python**, **Java**, **Flask**, **Spring Boot**, and **SQL**.  
-- Proficient in **Linux Administration**, setting up servers and optimizing system performance.  
-- Experienced with **AI and Machine Learning**, building intelligent systems for real-world applications.  
-- Developed projects ranging from **real-time face detection systems** to **graph-based navigation algorithms** and **Learning Management Systems**.  
-- Hands-on experience with **Docker**, **Git**, **System Design**, and **API Development**.  
-- Adept at managing databases and optimizing queries for **MySQL** and other RDBMS.  
+---
 
-🔧 **Projects I’m Proud Of**  
-- **Job Portal**: A web application connecting talent with opportunities.  
-- **AI-Powered Document Converter**: Converting voice-based lessons into accurate documents.  
-- **Face Detection System**: Real-time detection using Haar Cascades and deep learning.  
+## 🔧 Projects I’m Proud Of  
+*Code so sharp, it cuts crime*  
 
-🎨 **Hobbies**  
-- **Trekking in the mountains** (I’m an orophile 🌄).  
+- **Job Portal:** Connecting talent with opportunities faster than I connect the dots in debugging.  
+- **AI-Powered Document Converter:** Turning voices into documents—no need to plead the fifth.  
+- **Face Detection System:** Real-time recognition. No mask can hide you now.  
 
-🎓 **Education**  
-- A student of **Galgotias University** Pursuing **B.Tech in CSE AI and ML.**  
+---
 
-🛠️ **Tech Stack**  
-- Programming Languages: **Python**, **Java**, **SQL**  
-- Frameworks: **Spring Boot**, **Flask**  
-- Tools & Platforms: **Docker**, **Git**, **Linux**  
-- Databases: **MySQL**  
-- Frontend: **HTML**, **CSS**, **JavaScript**, **Bootstrap**  
-- AI & ML: Proficient in building and training models.  
+## 🎨 Hobbies  
+*When I’m not coding or saving the digital world:*  
+
+- **Trekking in the mountains**—because even vigilantes need some fresh air. (And yes, I’m an orophile. 🌄 Fancy word, right?)  
+- Occasionally, I try to debug life, but that’s way harder than debugging code.  
+
+---
+
+## 🎓 Education  
+
+Pursuing **B.Tech in CSE AI and ML** at **Galgotias University**. Essentially, I’m training to be the tech world’s Daredevil, minus the blindness but with all the grit.  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Programming Languages:** Python (for agility), Java (for strength), SQL (for strategy)  
+- **Frameworks:** Spring Boot (my iron fist), Flask (my nimble fingers)  
+- **Tools & Platforms:** Docker, Git, Linux (my battle gear)  
+- **Databases:** MySQL (optimized like Hell’s Kitchen streets)  
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap (because a hero also needs a good look)  
+- **AI & ML:** Training models to be as sharp and relentless as me.  
+
+---
+
+When the bugs come crawling, I don’t just fix them—I take them down. The city of code deserves a hero, and here I am. Together, let’s make tech smarter, safer, and a whole lot cooler. 🦸‍♂️
+
 
 
 
