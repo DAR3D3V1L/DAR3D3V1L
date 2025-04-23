@@ -35,7 +35,7 @@ Currently pursuing **B.Tech in CSE (AI & ML)** at **Galgotias University**.
 - **Languages:** Python, Java, C, C++, SQL, JavaScript, Bash  
 - **Frameworks:** Flask, Spring Boot, Bootstrap  
 - **Databases:** MySQL  
-- **Tools:** Docker, Git, Selenium, Qt, Nginx, Apache  
+- **Tools:** Docker, Git,Postman, Selenium, Qt, Nginx, Apache  
 - **AI/ML:** TensorFlow, Scikit-learn, Matplotlib, SciPy  
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap  
 - **Others:** JWT, Jinja, AWS
