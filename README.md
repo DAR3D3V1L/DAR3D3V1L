@@ -6,21 +6,11 @@
 
 ---
 
-## 👋 About Me
+## 👋 Hey, I'm Devansh
 
-Hey there! I'm **Devansh** — an aspiring **AI Engineer**
+I'm a 3rd-year CS student specializing in AI & ML *(2023–2027)*. I've already shipped four projects across ML, full-stack web, and AI tooling  and I'm just getting started.
 
-I'm currently pursuing my **B.Tech in CSE (AI & ML)** at **Galgotias University** *(2023–2027)*, and I spend most of my time building intelligent systems that actually solve real-world problems.
-
-I'm deeply passionate about **Machine Learning**, **Deep Learning**, and **Computer Vision** — whether it's training models to detect deception through facial cues or building full-stack platforms that streamline hiring workflows. I love the entire journey from a messy dataset to a deployed, working solution.
-
-When I'm not training models, you'll find me grinding **DSA problems on LeetCode** 💪, experimenting with **Docker** deployments, or diving into **Linux** internals.
-
-> *"I don't just write code — I engineer solutions that learn, adapt, and scale."*
-
-- 🔭 Currently exploring **Deep Learning architectures** & **MLOps pipelines**
-- 🤝 Open to collaborating on **AI/ML** and **open-source** projects
-- 📬 Reach me at **devansh_arya@outlook.com**
+My main interests are **Machine Learning**, **Deep Learning**, and **Computer Vision**. I enjoy the whole process  wrangling messy data, picking the right model, and actually deploying something that works. I don't like leaving projects half-finished.
 
 ---
 
@@ -31,7 +21,6 @@ When I'm not training models, you'll find me grinding **DSA problems on LeetCode
 ### 💬 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -43,6 +32,8 @@ When I'm not training models, you'll find me grinding **DSA problems on LeetCode
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### 🌐 Frameworks & Web
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -51,49 +42,72 @@ When I'm not training models, you'll find me grinding **DSA problems on LeetCode
 ### ⚙️ Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects I've Built
 
 <table align="center">
   <tr>
+    <!-- Workloom -->
     <td align="center" width="50%">
-      <h3>🛡️ DeceptiSense</h3>
-      <p><strong>AI-Powered Behavioral Cybersecurity System</strong></p>
-      <p>Real-time deception detection using facial cues & behavioral signals. Built with OpenCV + ML models, achieving <strong>~90% accuracy</strong> on test data with a full inference pipeline for decision alerts.</p>
+      <h3>🧵 Workloom</h3>
+      <p><strong>Collaborative Task Management Platform</strong></p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        I built this because most task tools are either too simple or too
+        bloated for small teams. Admins can create projects, assign prioritized
+        tasks, and monitor overdue work through a live dashboard  members only
+        see what's assigned to them. Deployed and running on Railway.
       </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+      <a href="https://github.com/DAR3D3V1L/Workloom">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
     </td>
+    <!-- HireSphere -->
     <td align="center" width="50%">
-      <h3>💼 Online Job Portal</h3>
+      <h3>💼 HireSphere</h3>
       <p><strong>Full-Stack Java Web Application</strong></p>
-      <p>End-to-end job recruitment platform with authentication, role-based access, resume uploads, and job filtering — streamlining the entire hiring workflow.</p>
+      <p>
+        Built a complete hiring platform from the ground up : login, role-based
+        access for recruiters and applicants, resume uploads, and job filtering.
+        Covers the whole workflow so both sides of the hiring process aren't
+        jumping between five different tools.
+      </p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/JSP/Servlets-007396?style=flat-square&logo=java&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
-      <a href="https://github.com/DAR3D3V1L/OnlineJobPortal_Personal">
+      <a href="https://github.com/DAR3D3V1L/HireSphere">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
   </tr>
+
   <tr>
+    <!-- Expense Tracker -->
     <td align="center" width="50%">
       <h3>💰 Expense Tracker</h3>
       <p><strong>Flask Web Application</strong></p>
-      <p>User-friendly web app to manage and track daily expenses with a clean, intuitive UI — built with Flask and deployed-ready architecture.</p>
+      <p>
+        A no-nonsense web app for logging and tracking daily expenses. I wanted
+        something lightweight that I'd actually use  clean UI, nothing bloated,
+        and easy to self-host.
+      </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
@@ -103,21 +117,33 @@ When I'm not training models, you'll find me grinding **DSA problems on LeetCode
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
+    <!-- AlgoInspect -->
     <td align="center" width="50%">
-      <h3>🧭 Navigation System</h3>
-      <p><strong>Pathfinding Algorithm Visualizer</strong></p>
-      <p>Intelligent pathfinding system implementing <strong>Dijkstra's</strong> and <strong>A* algorithms</strong> — demonstrating strong DSA and algorithm design skills.</p>
+      <h3>⚡ AlgoInspect</h3>
+      <p><strong>AI Code Analysis Tool</strong></p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Algorithms-00599C?style=flat-square&logo=thealgorithms&logoColor=white"/>
+        LeetCode tells you if your solution passes  it doesn't tell you
+        <em>why</em> it's slow or how to think better. I built this React + Vite
+        tool using <strong>LLM APIs</strong> to actually review your code:
+        complexity breakdowns, algorithm insights, optimization suggestions, and
+        progress tracking over time.
       </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Groq-FF6B6B?style=flat-square&logo=openai&logoColor=white"/>
+      </p>
+      <a href="https://github.com/DAR3D3V1L/AlgoInspect">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -134,9 +160,9 @@ When I'm not training models, you'll find me grinding **DSA problems on LeetCode
 
 <div align="center">
 
-### 🤝 Let's Build Something Amazing Together!
+### 🤝 Want to Build Something Together?
 
-I'm always looking for exciting **AI/ML projects** to collaborate on. Whether you have an idea, an open-source project, or just want to talk tech — let's connect!
+I'm always up for interesting **AI/ML projects**  whether it's a wild idea you want to prototype, an open-source project that needs a hand, or just a good conversation about tech. Feel free to reach out.
 
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devansharya)
 [![Email](https://img.shields.io/badge/-Drop_a_Mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:devansh_arya@outlook.com)
