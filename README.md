@@ -10,8 +10,6 @@
 
 I'm a 3rd-year CS student specializing in AI & ML *(2023–2027)*. I've already shipped four projects across ML, full-stack web, and AI tooling  and I'm just getting started.
 
-My main interests are **Machine Learning**, **Deep Learning**, and **Computer Vision**. I enjoy the whole process  wrangling messy data, picking the right model, and actually deploying something that works. I don't like leaving projects half-finished.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -26,10 +24,10 @@ My main interests are **Machine Learning**, **Deep Learning**, and **Computer Vi
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### 🧠 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-11557C?style=for-the-badge&logo=plotly&logoColor=white_)
 
 ### 🌐 Frameworks & Web
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
