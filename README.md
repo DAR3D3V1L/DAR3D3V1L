@@ -8,7 +8,8 @@
 
 ## 👋 Hey, I'm Devansh
 
-I'm a 3rd-year CS student specializing in AI & ML *(2023–2027)*. I've already shipped four projects across ML, full-stack web, and AI tooling  and I'm just getting started.
+B.Tech CSE (AI & ML) student passionate about full-stack development, backend engineering, and AI-powered tools. I enjoy building practical projects using Java, Spring Boot, React, Python, and LLM APIs while continuously learning through hands-on development and problem-solving.
+
 
 ---
 
